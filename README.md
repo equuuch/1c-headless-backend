@@ -1,4 +1,4 @@
-# 🚀 Resale Marketplace Backend (1C:Enterprise)
+# 🚀 Resale Marketplace Backend
 Бэкенд-система для C2C ресейл-маркетплейса (аналог Avito, Grailed), разработанная на платформе «1С:Предприятие 8.3» в архитектуре **Headless REST API**.
 
 ## 🛠 Технологический стек
